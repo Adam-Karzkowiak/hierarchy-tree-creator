@@ -17,7 +17,7 @@ Project is created with:
 * 
 	
 ## Setup
-produce docker container with pre-built server:
-docker build -t hierarchy .
-command to start the server within the container:
-docker run --rm -p 8080:8080 hierarchy
+produce docker container with pre-built server:  
+docker build -t hierarchy .  
+command to start the server within the container:  
+docker run --rm -p 8080:8080 hierarchy  
